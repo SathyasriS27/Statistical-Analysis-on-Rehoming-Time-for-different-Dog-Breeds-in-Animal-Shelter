@@ -4,8 +4,8 @@
 The aim of this project is given a collection of records documenting the stray, unwanted, or neglected dogs sent to animal shelters to be rehomed, we analyse their rehoming patterns based on their breeds.
 
 ## Dataset used 🧩
-We work with a subset of this larger dataset, consisting of roughly 670 records with details on breeds, such as Labrador Retrievers, Greyhounds, and Border Collies. This dataset includes details about the dog's rehoming time, a health indicator, age, breed, and why it was brought to the shelter. The Rehoming and Breed columns are this analysis's main variables of interest.
-The dataset that we work with in this analysis is - [dataset]
+We work with a [subset](https://github.com/SathyasriS27/Statistical-Analysis-on-Rehoming-Time-for-different-Dog-Breeds-in-Animal-Shelter/blob/main/mysample.RData) of this larger dataset, consisting of roughly 670 records with details on breeds, such as Labrador Retrievers, Greyhounds, and Border Collies. This dataset includes details about the dog's rehoming time, a health indicator, age, breed, and why it was brought to the shelter. The Rehoming and Breed columns are this analysis's main variables of interest.
+The dataset that we work with in this analysis is - [dataset](https://github.com/SathyasriS27/Statistical-Analysis-on-Rehoming-Time-for-different-Dog-Breeds-in-Animal-Shelter/blob/main/rehoming.RData).
 
 ## Built with 👩🏻‍💻
 * R
@@ -17,4 +17,4 @@ The dataset that we work with in this analysis is - [dataset]
 4. Comparison - Interpretation made from the Confidence Interval Forest Plot for pairs of breeds, which helps with final inference and conclusions. 
    
 ## Documentation 🗂️
-In order to get the complete analysis and conclusion, please refer to this [documentation].
+In order to get the complete analysis and conclusion, please refer to this [documentation](https://github.com/SathyasriS27/Statistical-Analysis-on-Rehoming-Time-for-different-Dog-Breeds-in-Animal-Shelter/blob/main/201749908_Sathyasri%20S_MATH5741_Coursework.pdf).
